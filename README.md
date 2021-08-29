@@ -1,4 +1,4 @@
-[![Header](https://github.com/snymkmr/snymkmr/blob/master/banner.gif?raw=true "Header")](https://github.com/snymkmr)
+[![Header](https://github.com/snymkmr/snymkmr/blob/main/banner.gif?raw=true "Header")](https://github.com/snymkmr)
 
 ## 👋 Hello! 
 I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
